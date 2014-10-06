@@ -1,0 +1,46 @@
+Fonts
+  Font:
+    Common name: IM FELL Great Primer SC
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: © 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL Great Primer SC
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: 3.00
+    Vendor: Igino Marini
+    Vendor url: www.iginomarini.com
+    Designer: Igino Marini
+    Designer url: www.iginomarini.com
+    Glyph count: 359
+    Character count: 340
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 12
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 1
